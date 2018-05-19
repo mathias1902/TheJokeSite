@@ -33,3 +33,10 @@ li a {
 li a:hover {
     background-color: #111;
 }
+
+p{
+	font-family: "Century Gothic";
+	size: 8pt;
+	color: #FFFFFF;
+	text-align: center;
+}
